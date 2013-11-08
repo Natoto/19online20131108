@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mainselect>
+
+    <selects>
+        <select>
+            <id>75</id>
+            <name>法国</name>
+        </select>
+
+         <select>
+            <id>45</id>
+            <name>意大利</name>
+        </select>
+
+       <select>
+            <id>48</id>
+            <name>智利</name>
+        </select>
+        <select>
+            <id>47</id>
+            <name>澳洲</name>
+        </select>
+        <select>
+            <id>49</id>
+            <name>美国</name>
+        </select>
+        <select>
+            <id>46</id>
+            <name>西班牙</name>
+        </select>
+        <select>
+            <id>87</id>
+            <name>其它</name>
+        </select>
+        
+    </selects>
+
+    <selects>
+             <select>
+            <id>8</id>
+            <name>干红</name>
+        </select>
+
+         <select>
+            <id>9</id>
+            <name>半干红</name>
+        </select>
+
+         <select>
+            <id>10</id>
+            <name>半甜红</name>
+        </select>
+
+         <select>
+            <id>11</id>
+            <name>甜红</name>
+        </select>
+
+          <select>
+            <id>12</id>
+            <name>雪莉酒</name>
+        </select>
+
+         <select>
+            <id>13</id>
+            <name>波特酒</name>
+        </select>
+
+         
+
+</selects>
+    <selects>
+
+         <select>
+            <id>1</id>
+            <name>赤霞珠</name>
+        </select>
+
+         <select>
+            <id>2</id>
+            <name>品丽珠</name>
+        </select>
+
+          <select>
+            <id>3</id>
+            <name>黑皮诺</name>
+        </select>
+
+         <select>
+            <id>4</id>
+            <name>西拉子</name>
+        </select>
+
+          <select>
+            <id>5</id>
+            <name>梅洛</name>
+        </select>
+
+          <select>
+            <id>6</id>
+            <name>圣祖维斯</name>
+        </select>
+         <select>
+            <id>7</id>
+            <name>多姿桃</name>
+        </select>
+         <select>
+            <id>8</id>
+            <name>巴贝拉</name>
+        </select>
+         <select>
+            <id>9</id>
+            <name>纳比奥罗</name>
+        </select>
+         <select>
+            <id>10</id>
+            <name>添帕尼优</name>
+        </select>
+         <select>
+            <id>11</id>
+            <name>仙粉黛</name>
+        </select>
+         <select>
+            <id>12</id>
+            <name>玛尔贝克</name>
+        </select>
+         <select>
+            <id>13</id>
+            <name>卡门娜</name>
+        </select>
+         <select>
+            <id>14</id>
+            <name>品乐塔</name>
+        </select>
+         
+    </selects>
+
+    <selects>
+
+         <select>
+            <id>1</id>
+            <name>1-99元</name>
+        </select>
+
+         <select>
+            <id>2</id>
+            <name>100-199元</name>
+        </select>
+
+          <select>
+            <id>3</id>
+            <name>200-299元</name>
+        </select>
+
+          <select>
+            <id>4</id>
+            <name>300-499元</name>
+        </select>
+
+         <select>
+            <id>5</id>
+            <name>500-799元</name>
+        </select>
+
+         <select>
+            <id>6</id>
+            <name>800-999元</name>
+        </select>
+
+         <select>
+            <id>7</id>
+            <name>1000元以上</name>
+        </select>
+
+        
+    </selects>
+
+</mainselect>

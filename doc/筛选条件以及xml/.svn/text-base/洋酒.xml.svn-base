@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mainselect>
+    <selects>
+
+         <select>
+            <id>1</id>
+            <name>1-99元</name>
+        </select>
+
+         <select>
+            <id>2</id>
+            <name>100-199元</name>
+        </select>
+
+          <select>
+            <id>3</id>
+            <name>200-299元</name>
+        </select>
+
+          <select>
+            <id>4</id>
+            <name>300-499元</name>
+        </select>
+
+         <select>
+            <id>5</id>
+            <name>500-799元</name>
+        </select>
+
+         <select>
+            <id>6</id>
+            <name>800-999元</name>
+        </select>
+
+         <select>
+            <id>7</id>
+            <name>1000元以上</name>
+        </select>
+
+        
+    </selects>
+
+</mainselect>

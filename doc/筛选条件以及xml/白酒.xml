@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mainselect>
+
+    <selects>
+        <select>
+            <id>1</id>
+            <name>低度白酒</name>
+        </select>
+
+         <select>
+            <id>2</id>
+            <name>中度白酒</name>
+        </select>
+
+         <select>
+            <id>3</id>
+            <name>高度白酒</name>
+        </select>
+    </selects>
+
+    <selects>
+             <select>
+            <id>1</id>
+            <name>酱香型</name>
+        </select>
+
+         <select>
+            <id>2</id>
+            <name>清香型</name>
+        </select>
+
+         <select>
+            <id>3</id>
+            <name>浓香型</name>
+        </select>
+
+         <select>
+            <id>4</id>
+            <name>米香型</name>
+        </select>
+
+          <select>
+            <id>5</id>
+            <name>凤香型</name>
+        </select>
+
+         <select>
+            <id>6</id>
+            <name>兼香型</name>
+        </select>
+
+          <select>
+            <id>7</id>
+            <name>馥郁香型</name>
+        </select>
+
+         <select>
+            <id>8</id>
+            <name>其它</name>
+        </select>
+
+</selects>
+    <selects>
+
+         <select>
+            <id>1</id>
+            <name>1-4年</name>
+        </select>
+
+         <select>
+            <id>2</id>
+            <name>5-10年</name>
+        </select>
+
+          <select>
+            <id>3</id>
+            <name>11-15年</name>
+        </select>
+
+         <select>
+            <id>4</id>
+            <name>16-20年</name>
+        </select>
+
+          <select>
+            <id>5</id>
+            <name>21-30年</name>
+        </select>
+
+          <select>
+            <id>6</id>
+            <name>30年以上</name>
+        </select>
+    </selects>
+
+    <selects>
+
+         <select>
+            <id>1</id>
+            <name>1-99元</name>
+        </select>
+
+         <select>
+            <id>2</id>
+            <name>100-199元</name>
+        </select>
+
+          <select>
+            <id>3</id>
+            <name>200-299元</name>
+        </select>
+
+          <select>
+            <id>4</id>
+            <name>300-499元</name>
+        </select>
+
+         <select>
+            <id>5</id>
+            <name>500-799元</name>
+        </select>
+
+         <select>
+            <id>6</id>
+            <name>800-999元</name>
+        </select>
+
+         <select>
+            <id>7</id>
+            <name>1000元以上</name>
+        </select>
+
+        
+    </selects>
+
+</mainselect>

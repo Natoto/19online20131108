@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mainselect>
+
+    <selects>
+        <select>
+            <id>1</id>
+            <name>白酒</name>
+        </select>
+
+         <select>
+            <id>7</id>
+            <name>洋酒</name>
+        </select>
+
+       <select>
+            <id>10</id>
+            <name>红葡萄酒</name>
+        </select>
+        <select>
+            <id>14</id>
+            <name>白葡萄酒</name>
+        </select>
+        <select>
+            <id>55</id>
+            <name>香槟和起泡酒</name>
+        </select>
+            
+    </selects>
+
+</mainselect>
